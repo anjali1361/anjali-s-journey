@@ -1,0 +1,29 @@
+<resources>
+    <string name="new_app_name">Anjali_journey</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="login">log in</string>
+    <string name="preference_file_name">Adventures Preferences</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="send_message">Send Message</string>
+    <string name="love_this_one">Love This One</string>
+    <string name="lonely">Lonely</string>
+    <string name="taking_selfie">Taking Selfie</string>
+    <string name="travelling">Travelling</string>
+    <string name="my_fav_cloth">My Fav Cloth</string>
+    <string name="near_grandparents">Near Grandparents</string>
+    <string name="enjoying_meal">Enjoying Meal</string>
+    <string name="at_cultural_fest">At Cultural Fest</string>
+    <string name="beginning_of_enjoyment_with_friends">Beginning Of Enjoyment With Friends</string>
+    <string name="at_fair">At Fair</string>
+    <string name="stylish">Stylish</string>
+    <string name="anjali">Anjali</string>
+    <string name="visit_with_family">Visit With Family</string>
+    <string name="memorable">Memorable</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_new_password">enter new password</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="enter_new_mobile_number">enter new mobile number</string>
+
+
+</resources>

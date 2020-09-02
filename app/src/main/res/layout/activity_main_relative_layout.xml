@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtLayoutHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Android Development with Internshala"
+        android:textColor="#0d47a1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"/>
+    <TextView
+        android:id="@+id/txtLayoutSubheader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="13dp"
+        android:text="android is fun"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txtLayoutHeader"/>
+    <ImageView
+        android:id="@+id/imgBarbi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:src="@drawable/barbi"
+        android:layout_centerInParent="true"/>
+    <Button
+        android:id="@+id/btnClickHere"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="click here"
+        android:background="#0091ea"
+        android:textColor="#ffffff"
+        android:textStyle="normal"
+        android:textSize="18sp"
+        android:layout_alignParentBottom="true"/>
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your name here"
+        android:layout_margin="20dp"
+        android:inputType="textPassword"
+        android:layout_below="@id/txtLayoutSubheader"/>
+
+</RelativeLayout>
